@@ -1,0 +1,102 @@
+
+.hi{
+    background: rgb(240,240,240);
+    background: linear-gradient(321deg, rgba(240,240,240,1) 0%, rgba(6,6,6,1) 35%, rgba(231,231,231,1) 100%);
+}
+  .pi
+{
+  background: rgb(240,240,240);
+  background: linear-gradient(321deg, rgba(240,240,240,1) 19%, rgba(6,6,6,1) 52%, rgba(231,231,231,1) 100%);color: white;
+display: flex;
+height: 100vh;
+
+}
+
+#skill
+{
+text-align: center;
+}
+
+
+.skill{
+  text-align: center;
+
+
+}
+.img
+{
+  height: 60px;
+  width: 200px;
+}
+.html,.css,.javascript,.bootsarp,.jquery
+{
+  top: 10px;
+  margin: 5;
+  position: relative;
+  padding: 20px;
+
+}
+.about
+{
+  justify-content: center;
+
+}
+.parent{
+  left: 100px;
+}
+
+
+
+
+
+
+/*<uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 400*/
+
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(105,162,228,1) 100%);
+}
+.education
+{
+  justify-content: center;
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+form {
+  max-width: 400px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+}
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+input, textarea, button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+button {
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #218838;
+}
+#education, #about ,#contact {
+  justify-content: center;
+}
